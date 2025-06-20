@@ -1,0 +1,20 @@
+{
+  "name": "rocketseat_ignite_node_desafio_01",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Primeiro desafio da trilha de Node.js do Ignite.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-nataliasilva/rocketseat_ignite_node_desafio_01.git"
+  },
+  "author": "Natalia Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-nataliasilva/rocketseat_ignite_node_desafio_01/issues"
+  },
+  "homepage": "https://github.com/dev-nataliasilva/rocketseat_ignite_node_desafio_01#readme"
+}
